@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/1pc.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mouse",
+    "price": 120,
+    "imgUrl": "/imgs/2pc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PC",
+    "price": 300,
+    "imgUrl": "/imgs/3pc.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Laptop Light",
+    "price": 14000,
+    "imgUrl": "/imgs/5pc.jpg"
+  },
+    {
+    "id": 5,
+    "name": "KeyBord",
+    "price": 140,
+    "imgUrl": "/imgs/6pc.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Camera",
+    "price": 10.99,
+    "imgUrl": "/imgs/7pc.jpg"
+  }
+]
